@@ -34,7 +34,7 @@ GIF created with [Giphy](https://giphy.com/).
 
 ## Notes
 
-Some Challenges I faced was making an effective settigs page. After I learn more about SwiftUi I will improve the settings page. 
+Some Challenges I faced was making an effective settings page. After I learn more about SwiftUi I will improve the settings page. 
 ## License
 
     Copyright [2021] [Catalina Bedoya]
